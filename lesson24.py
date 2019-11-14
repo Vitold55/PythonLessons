@@ -1,17 +1,15 @@
 number = 55
-counter = 1
-finish = False
+counter = 0
 
-while finish == False:
+while True:
 
     attempt = int(input('Input your number variant? '))
+    counter += 1
 
     if attempt == number:
         print(f'Congratulation!!! You guess the number by {counter} attempts')
-        finish = True
+        break
+    elif attempt < number:
+        print('Input bigger number')
     else:
-        counter += 1
-        if attempt < number:
-            print('Input bigger number')
-        else:
-            print('Input less number')
+        print('Input less number')
