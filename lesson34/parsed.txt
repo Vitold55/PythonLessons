@@ -1,0 +1,100 @@
+PARSED ARTICLES
+
+Article #1
+Title: Сербских болельщиков призвали воздержаться от провокаций во время игры с Украиной3
+Description: Сербская федерация призывает к порядку на стадионе
+Link: /foreign/euro/1573926428-serbskih-bolelschikov-prizvali-vozderzhatsya-ot-provokaciy-vo-vremya-igry-s-ukrainoy.html
+
+*******************************************************
+
+Article #2
+Title: Месси вернулся и принес Аргентине победу над Бразилией14
+Description: В матче было два незабитых пенальти, но мало футбола
+Link: /foreign/south_america/1573840771-messi-vernulsya-i-prines-argentine-pobedu-nad-braziliey.html
+
+*******************************************************
+
+Article #3
+Title: Первая лига. Черноморец не смог дожать Минай7
+Description: Молодые одесситы проявили себя лучше, чем ожидалось.
+Link: /ukrainian/first/1573885722-pervaya-liga-chernomorec-ne-smog-dozhat-minay.html
+
+*******************************************************
+
+Article #4
+Title: Сарагоса - Альбасете. Смотреть онлайн, LIVE трансляция
+Description: Зозуля рвется в бой
+Link: /foreign/spain/1573912484-saragosa-albasete-smotret-onlayn-live-translyaciya.html
+
+*******************************************************
+
+Article #5
+Title: "Андрей знал, куда он едет". Тренер Вальядолида жестко ответил, когда Лунин получит игровую практику20
+Description: Украино-испанская дилемма…
+Link: /ukrainian/ukrainians/1573801423-andrey-znal-kuda-on-edet-trener-valyadolida-zhestko-otvetil-kogda-lunin-poluchit-igrovuyu-praktiku.html
+
+*******************************************************
+
+Article #6
+Title: Первая лига. Рух обыграл Металлист 1925 с любимым счетом8
+Description: Гости доигрывали матч вдевятером.
+Link: /ukrainian/first/1573804290-pervaya-liga-ruh-obygral-metallist-1925-s-lyubimym-schetom.html
+
+*******************************************************
+
+Article #7
+Title: Отбор к Евро-2020. Румыния - Швеция 0:2. Еще один участник элитной компании
+Description: Швеция вышла на Евро-2020
+Link: /foreign/euro/1573852294-otbor-k-evro-2020-rumyniya-shveciya-0-2-esche-odin-uchastnik-yelitnoy-kompanii.html
+
+*******************************************************
+
+Article #8
+Title: Желько Любенович - о сборной Сербии, Жерсоне Родригесе и дуэли с Пятовым
+Description: Чем живет Сербия накануне поединка с Украиной
+Link: /ukrainian/news/1573925924-zhelko-lyubenovich-o-sbornoy-serbii-zhersone-rodrigese-i-duyeli-s-pyatovym.html
+
+*******************************************************
+
+Article #9
+Title: Если вдруг Украина проиграет Сербии... Какие сценарии других групп отбора будут для нас приемлемыми38
+Description: Для того, чтобы все-таки оказаться в первой корзине при жеребьевке группового этапа Евро-2020
+Link: /ukrainian/national/1573727031-esli-vdrug-ukraina-proigraet-serbii-kakie-scenarii-drugih-grupp-otbora-budut-dlya-na-priemlemymi.html
+
+*******************************************************
+
+Article #10
+Title: Наши за границей. Синусоиды первой трети сезона
+Description: Яркая вершина, слабое основание пирамиды
+Link: /ukrainian/ukrainians/1573796410-nashi-za-granicey-sinusoidy-pervoy-treti-sezona.html
+
+*******************************************************
+
+Article #11
+Title: Шевченко: Мы должны знать, на кого можно надеяться. Ответы сегодня я получил очень хорошие27
+Description: Послематчевая пресс-конференция главного тренера сборной Украины
+Link: /ukrainian/national/1573761023-shevchenko-my-dolzhny-znat-na-kogo-mozhno-nadeyatsya-otvety-segodnya-ya-poluchil-ochen-horoshie.html
+
+*******************************************************
+
+Article #12
+Title: Ворскла объявила о назначении нового главного тренера13
+Description: Пришёл на смену Косовскому
+Link: /ukrainian/high/1573825802-vorskla-obyavila-o-naznachenii-novogo-glavnogo-trenera.html
+
+*******************************************************
+
+Article #13
+Title: Турция - Исландия 0:0. Лимит на чудеса исчерпан
+Description: Группа Н определила обоих участников финальной части Евро-2020
+Link: /foreign/euro/1573758022-turciya-islandiya-0-0-limit-na-chudesa-ischerpan.html
+
+*******************************************************
+
+Article #14
+Title: Люксембург - Португалия. Прогноз на матч квалификации Евро-2020
+Description: UA-Футбол делает свой прогноз на матч отбора к Евро-2020 Люксембург - Португалия; группа В. Восьмой тур. Люксембург. Стадион Жози Бартель. 17.11.2019. 16:00. Арбитр в поле – Хесус Хиль Мансано (Испания), телетрансляция в Украине - ТК Футбол 2
+Link: /foreign/euro/1573914974-lyuksemburg-portugaliya-prognoz-na-match-kvalifikacii-evro-2020.html
+
+*******************************************************
+
